@@ -70,9 +70,6 @@ Follow the next step for config Grafana dashboard.
 #### Add your Prometheus server cluster ip in URL.
 ![N|Solid](https://drive.google.com/uc?export=view&id=14uf80bNtf9Yf03vNWo5C1gZ5c7w0v9lg)
 
-#### Click on save and test button 
-![N|Solid](https://drive.google.com/uc?export=view&id=1zUlx1MZsXcDAHbK1DLpEIJJ4lFio5553)
-
 #### Import dashboard 
 ![N|Solid](https://drive.google.com/uc?export=view&id=1AL_OkOHQHYlDFBT11n-QpBkg01XsnIuQ)
 
