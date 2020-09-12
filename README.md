@@ -62,22 +62,22 @@ Follow the next step for config Grafana dashboard.
 
 ## Grafana dashboard Setup
 #### Login inside the Grafana dashboard and add your data source.
-![N|Solid](https://drive.google.com/uc?export=view&id=1EUUN-hlaKs4mUYLV8OzWlt6XKmksYFyd)
+[](https://drive.google.com/uc?export=view&id=1fsGzmGV-CTiHLvBrkQEOVcr0Qw-gu_qh)
 
 #### Select Prometheus for data source. 
-![N|Solid](https://drive.google.com/uc?export=view&id=1zTWyx1NtG-H2r7C4iVvLLRaSBkRZvJp8)
+[](https://drive.google.com/uc?export=view&id=bO4zYiX6CDIvWOQp4tW_Ypfn08NJPwTV)
 
 #### Add your Prometheus server cluster ip in URL.
-![N|Solid](https://drive.google.com/uc?export=view&id=14uf80bNtf9Yf03vNWo5C1gZ5c7w0v9lg)
+[](https://drive.google.com/uc?export=view&id=1_RyVpiWEvLe3gEj2GuUPTmFVzkOjZHmk)
 
 #### Import dashboard 
-![N|Solid](https://drive.google.com/uc?export=view&id=1AL_OkOHQHYlDFBT11n-QpBkg01XsnIuQ)
+[](https://drive.google.com/uc?export=view&id=1GPYm5f1-m5UGw2_GZqYo1s6ilpD5V5NW)
 
 #### Add dashboard ID 
-![N|Solid](https://drive.google.com/uc?export=view&id=1z9KOSFI4XdfYGlp2IMeoTS0X5JthU3r3)
+[](https://drive.google.com/uc?export=view&id=1vCoRtJ02-V8RFzdfe1xtGtHpfymeYtja)
 
 #### Select data source for the dashboard
-![N|Solid](https://drive.google.com/uc?export=view&id=10H7LSeqhS-a_4rxDap_4iFG2vZXfF5CD)
+[](https://drive.google.com/uc?export=view&id=1SBXXAXsKSKSwrIvYgDSMRhBHWlb2AtlQ)
 
 #### This is the Final outcome 
-![N|Solid](https://drive.google.com/uc?export=view&id=16E4WH2XVOTGedOJjWEkn60vj-xLk6dbo)
+[](https://drive.google.com/uc?export=view&id=1iDkj5nCYjsFzYB5lytBk0ka7aw5xcncx)
