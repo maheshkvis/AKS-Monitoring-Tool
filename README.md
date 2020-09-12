@@ -86,6 +86,5 @@ Follow the next step for config Grafana dashboard.
 Any questions or suggestions?
 
 You are welcome to discuss it on :)
-
+[![Link](https://img.icons8.com/fluent/48/000000/linkedin.png)](https://www.linkedin.com/in/mahesh-kumar-393407153/)<br>
 [![Tweet](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fer_maheshkvish)](https://twitter.com/er_maheshkvish)<br>
-[![Link](https://img.icons8.com/fluent/48/000000/linkedin.png)](https://www.linkedin.com/in/mahesh-kumar-393407153/)
