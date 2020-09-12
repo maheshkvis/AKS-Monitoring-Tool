@@ -85,8 +85,6 @@ Follow the next step for config Grafana dashboard.
 ## Feedback 
 Any questions or suggestions?
 
-You are welcome to discuss it on :)<br>
-
 You are welcome to discuss it on :)
 
 
