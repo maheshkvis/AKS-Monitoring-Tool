@@ -61,24 +61,24 @@ Now you have successfully installed the Grafana and Prometheus.
 Follow the next step for config Grafana dashboard.
 
 ## Grafana dashboard Setup
-## Grafana dashboard Setup
 #### Login inside the Grafana dashboard and add your data source.
-![test](https://drive.google.com/uc?export=view&id=1fsGzmGV-CTiHLvBrkQEOVcr0Qw-gu_qh)
+![test](https://drive.google.com/uc?export=view&id=1d0uRnc9z-YumL2XPw8lo113lQq9mCECP)
 
 #### Select Prometheus for data source. 
-![test2](https://drive.google.com/uc?export=view&id=1bO4zYiX6CDIvWOQp4tW_Ypfn08NJPwTV)
+![test2](https://drive.google.com/uc?export=view&id=1gGJyXSnN3UfvDix4HEZs_HsYLY8ZTcrf)
 
 #### Add your Prometheus server cluster ip in URL.
-![test3](https://drive.google.com/uc?export=view&id=1_RyVpiWEvLe3gEj2GuUPTmFVzkOjZHmk)
+![test3](https://drive.google.com/uc?export=view&id=14OcMct1katYeM-u3yD_Cx2H8udhRXhy5)
 
 #### Import dashboard 
-![test4](https://drive.google.com/uc?export=view&id=1GPYm5f1-m5UGw2_GZqYo1s6ilpD5V5NW)
+![test4](https://drive.google.com/uc?export=view&id=1m7EZWijaU1YLx0pInQZAUehUL2s3dMY7)
 
 #### Add dashboard ID 
-![test5](https://drive.google.com/uc?export=view&id=1vCoRtJ02-V8RFzdfe1xtGtHpfymeYtja)
+![test5](https://drive.google.com/uc?export=view&id=1B9p2TH4o0C_Fs85UN9sX7sUgFUyrpzHC)
 
 #### Select data source for the dashboard
-![test6](https://drive.google.com/uc?export=view&id=1SBXXAXsKSKSwrIvYgDSMRhBHWlb2AtlQ)
+![test6](https://drive.google.com/uc?export=view&id=18mIz_NouVxhzL162kl_irjsDyl2kdSyH)
 
 #### This is the Final outcome 
-![test7](https://drive.google.com/uc?export=view&id=1iDkj5nCYjsFzYB5lytBk0ka7aw5xcncx)
+![test7](https://drive.google.com/uc?export=view&id=1T7rFqTXx3_f9JXEYdXtII-skmlFNOQKa)
+
