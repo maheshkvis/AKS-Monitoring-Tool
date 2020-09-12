@@ -62,23 +62,24 @@ Follow the next step for config Grafana dashboard.
 
 ## Grafana dashboard Setup
 #### Login inside the Grafana dashboard and add your data source.
-![test](https://drive.google.com/uc?export=view&id=1d0uRnc9z-YumL2XPw8lo113lQq9mCECP)
+![test](https://e9auzg.dm.files.1drv.com/y4m0xC5wKHC1TM6kwVfYzNszRptkMqvtznlIGT0xRpTVPmkGnBOsRdYHidgINrb0MNAvwwKnDMroMyAkSL1P6bM6Q_iTGZDxQW4T9ig3TxEgfSksGtqeCFJ-qi42Z-46xR33bIkIrxbElW12sAPkQAhjkYebrKAf3w35v9GzJ8l9fce5RmCXhRiQ41ZOI0SUQ8GyB_A9bzx9gDXYsqaq5BopQ?width=1024&height=238&cropmode=none)
 
 #### Select Prometheus for data source. 
-![test2](https://drive.google.com/uc?export=view&id=1gGJyXSnN3UfvDix4HEZs_HsYLY8ZTcrf)
+![test2](https://e9atzg.dm.files.1drv.com/y4mA8c0hZEJuDqTJUi97kt4LOZW_g6WQ3r9jLg-67lIdKWKCnhNkw9wEZ7E4iul0gl06XsCtKtR9qzGatvlkPm9IlyOZFGqtMvPwAWa5Jy18urowHTJ7ohj6NAqNRyghNrmaDiFe04bhLhAaZ6u9Z1I4PKmd9BCRkOMNwPrdj0TD9jbgmTIsw4869k7QUb4UZPjjd0F_HEgowCJQwQugU3gig?width=1024&height=188&cropmode=none)
 
 #### Add your Prometheus server cluster ip in URL.
-![test3](https://drive.google.com/uc?export=view&id=14OcMct1katYeM-u3yD_Cx2H8udhRXhy5)
+![test3](https://e9arzg.dm.files.1drv.com/y4mrutKebHbInN97ouy-A1V8pj36Jm7SdllnGwSikUlJplrzZZfAGLm4P7AYrKpT1j9TvFUa0sqiUTCdGb1fB94P7aaXg3HrZifFQ0x1C0CzeeIIGr9uybww3wDZ56iQVE2Nw4sIqHfWCeB1UvOy6tc7QpZ9PnaNDZcoJFm5aVJ12PYjf644L5MOKux8AxbeMGWiojX33k4QEEzSDZXLWje4g?width=1024&height=340&cropmode=none)
 
 #### Import dashboard 
-![test4](https://drive.google.com/uc?export=view&id=1m7EZWijaU1YLx0pInQZAUehUL2s3dMY7)
+![test4](https://e9ayzg.dm.files.1drv.com/y4mK2cxf8EFWj5lTjsRLmnkoeD58p_786N5vF1SFAdvJn7k5KLCgW8ruGKxuyTfDFP8206cFU8oBpN1zRVVaVkbr6lPpOk1auyTT6xHdxrt48D5J2fJSpN81LccMWOJb5D8y5lrZiX2DU3uK_DxpN5dTLklOt9zPBzbMLBaDpUO-PpdJZpt2x3H-sU2Jp_TE0sGcrpR2h-HZVl6Itt07MZlxQ?width=660&height=344&cropmode=none)
 
 #### Add dashboard ID 
-![test5](https://drive.google.com/uc?export=view&id=1B9p2TH4o0C_Fs85UN9sX7sUgFUyrpzHC)
+![test5](https://e9axzg.dm.files.1drv.com/y4mZuXY6IoSCsK1OoYFTEddjba3ulYv3VxnPLNAq54Giz8SpZBCYX1AlMNLKLlosxbxExGPMA2O-mxuR4DT0GfCr2VygEUHF9PIoM-qPWk1K1Nq_laTjKgdVFclzbWiEHpg_dN5XDbppXNMp4_zJOPrsYTNqArVPA-WucaVeRuMq_SnKTssJA0z8Writ7VdfWXf32-0oe4O1fI9a8HnSD0OJw?width=1024&height=325&cropmode=none)
 
 #### Select data source for the dashboard
-![test6](https://drive.google.com/uc?export=view&id=18mIz_NouVxhzL162kl_irjsDyl2kdSyH)
+![test6](https://e9aszg.dm.files.1drv.com/y4mKfAP6ZlX0mRmCC6ZRBlGs8XAjMO--qYo1q3eZJZ9JZAJQQxd5wH8IZ1DCmk3XNN3iZBvSj1YAukKAXzg1cSSFuQWC4jeNVgnv4nHF7QvW7B4fcKkeXFVRDl4D7yJX2UxGdTPd26DWvBZylegrXldU4UbdIZokhuiJcpNOutf0FLXUgCYZexgMXN3X7xf-PLElhqROOIEcmXRz44kA1sERg?width=660&height=233&cropmode=none)
 
 #### This is the Final outcome 
-![test7](https://drive.google.com/uc?export=view&id=1T7rFqTXx3_f9JXEYdXtII-skmlFNOQKa)
+![test7](https://e9avzg.dm.files.1drv.com/y4mKtTIEjN7Dx-dnc8crkJZvpqFzGcMLf2c0oxYDEJY_sjC01fJrl8uvi4cVT8DPj0PXKdWOGaY8m91RL25xRxIPEiRXVDrRscyBULliCS01-akTsSlCNMPw0wS1ith92owrKGlrH91O5HW_kbb7AgqjPkj38L4sBZ7zCGwbubuoh_KiwmOKQoKbP7gfqHEP1fnINM4_to0mDtHKjeX4dz8Ow?width=1024&height=493&cropmode=none)
+
 
