@@ -82,4 +82,10 @@ Follow the next step for config Grafana dashboard.
 #### This is the Final outcome 
 ![test7](https://e9avzg.dm.files.1drv.com/y4mKtTIEjN7Dx-dnc8crkJZvpqFzGcMLf2c0oxYDEJY_sjC01fJrl8uvi4cVT8DPj0PXKdWOGaY8m91RL25xRxIPEiRXVDrRscyBULliCS01-akTsSlCNMPw0wS1ith92owrKGlrH91O5HW_kbb7AgqjPkj38L4sBZ7zCGwbubuoh_KiwmOKQoKbP7gfqHEP1fnINM4_to0mDtHKjeX4dz8Ow?width=1024&height=493&cropmode=none)
 
+## Feedback 
+Any questions or suggestions?
 
+You are welcome to discuss it on :)
+
+[![Tweet](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fer_maheshkvish)](https://twitter.com/er_maheshkvish)<br>
+[![Link](https://img.icons8.com/fluent/48/000000/linkedin.png)](https://www.linkedin.com/in/mahesh-kumar-393407153/)
