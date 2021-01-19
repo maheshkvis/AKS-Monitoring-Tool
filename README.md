@@ -41,7 +41,8 @@ Install the Prometheus Helm chart
 Set "rbac.create=true" if RBAC is enable in your cluster 
 ```
 $ kubectl create namespace monitoring
-$ helm install . --namespace monitoring --set rbac.create=false --generate-name
+$ cd AKS-Monitoring-Tool/prometheus
+$ helm install prometheus . --namespace monitoring --set rbac.create=false
 $ SVC_IP=$(kubectl get svc --namespace monitoring -l "app=prometheus,component=server" -o jsonpath="{.items[0].spec.clusterIP}")
 ```
 Note: Save the SVC_IP it will help you to set up the Grafana dashboard with Prometheus
@@ -49,8 +50,8 @@ Note: Save the SVC_IP it will help you to set up the Grafana dashboard with Prom
 Install Grafana Helm chart
 ```
 $ cd ..\grafana
-$ helm install . --set persistence.enabled=true --set persistence.accessModes={ReadWriteOnce} --set persistence.size=8Gi --generate-name --namespace monitoring
-$ export POD_NAME=$(kubectl get pods --namespace monitoring -l "app.kubernetes.io/name=grafana,app.kubernetes.io/instance=chart-1599858402" -o jsonpath="{.items[0].metadata.name}")
+$ helm install grafana . --set persistence.enabled=true --set persistence.accessModes={ReadWriteOnce} --set persistence.size=5Gi --namespace monitoring
+$ export POD_NAME=$(kubectl get pods --namespace monitoring -l "app.kubernetes.io/name=grafana,app.kubernetes.io/instance=grafana " -o jsonpath="{.items[0].metadata.name}")
 $ kubectl --namespace monitoring port-forward $POD_NAME 3000
 ```
 The Grafana dashboard username is admin and for password execute this CMD
